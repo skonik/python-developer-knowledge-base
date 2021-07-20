@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "python-developer-knowledge-base"
+version = "0.1.0"
+description = ""
+authors = ["Skonik <s.konik.job@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+mkdocs = "^1.2.1"
+mkdocs-material = "^7.1.10"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
