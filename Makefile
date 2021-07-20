@@ -9,4 +9,4 @@ help:
 
 
 run:
-	cd knowledge-base && poetry run mkdocs serve
+	poetry run mkdocs serve
